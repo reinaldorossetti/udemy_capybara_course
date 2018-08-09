@@ -17,10 +17,11 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 ![Drivers](https://github.com/reinaldorossetti/ProjetoSpreadTecnologia/blob/master/imgs/drivers.PNG)<br>
 Como mostra a imagem os drivers devem estar dentro da pasta /bin dentro do RubyXX.
 
-**Passos a Passo:**
+**Passo a Passo:**
 1. Baixar o Driver no link acima.
 2. Cópiar o driver para dentro da pasta do rubyXX/bin, como mostra a imagem acima.
 3. É bom, mas não obrigatório deixar o /bin no path do Windows, ou marcar na instalação o mesmo.  
   Variáveis de Ambiente >> Path >> Editar >> Novo >> Adicionar o caminho >> Dar um clique em OK.
+4. Agora somente rodar os testes e sucesso!
   
 ![Drivers](https://github.com/reinaldorossetti/ProjetoSpreadTecnologia/blob/master/imgs/path.PNG)<br>
