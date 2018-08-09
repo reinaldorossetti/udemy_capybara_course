@@ -21,6 +21,6 @@ Como mostra a imagem os drivers devem estar dentro da pasta /bin dentro do RubyX
 1. Baixar o Driver no link acima.
 2. Cópiar o driver para dentro da pasta do rubyXX/bin, como mostra a imagem acima.
 3. É bom, mas não obrigatório deixar o /bin no path do Windows, ou marcar na instalação o mesmo.  
-  Variáveis de Ambiente >> Path >> Editar >> Novo >> Adicionar o caminho.
+  Variáveis de Ambiente >> Path >> Editar >> Novo >> Adicionar o caminho >> Dar um clique em OK.
   
 ![Drivers](https://github.com/reinaldorossetti/ProjetoSpreadTecnologia/blob/master/imgs/path.PNG)<br>
