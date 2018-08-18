@@ -1,9 +1,13 @@
 ### Dúvidas e Dicas do Curso de Capybara na Udemy com alguns exemplos práticos, contribuição minha para o Curso, para ajudar a comunidade de testadores.
 
-O primeiro passo para se automatizar utilizando o Watir Framework é instalar as ferramentas que iramos trabalhar.<br>
+O primeiro passo para se automatizar utilizando o Capybara Framework é instalar as ferramentas/Framework que iramos trabalhar.<br>
+
 ![01 - Instalando o Ruby Windows](https://github.com/reinaldorossetti/udemy_capybara_course/blob/master/01-Instalando_o_Ruby.md)<br>
+
 ![02 - Instalando o DevKit](https://github.com/reinaldorossetti/udemy_capybara_course/blob/master/02-Instalando_o_Ruby_Parte_2.md)<br>
+
 ![03 - Instalando os Drivers](https://github.com/reinaldorossetti/udemy_capybara_course/blob/master/03-Instalando_os_Drivers_Windows.MD)<br>
+
 ![05 - Instalando a gem pry para debugging](https://github.com/reinaldorossetti/udemy_capybara_course/blob/master/04-pry-byebug.MD)<br>
 
 Depois de instalar as ferramentas, vamos falar sobre o básico de ruby para a Automação de Testes.<br>
@@ -16,4 +20,4 @@ Depois de estudar o básico de Ruby, vamos falar sobre o básico o Capybara Fram
 ![07 - Falando sobre o Capybara](https://github.com/reinaldorossetti/capybara_tips/blob/master/Capybara_comandos.md)<br>
 
 
-Espero que tenham gostado!
+### Espero que tenham gostado!
