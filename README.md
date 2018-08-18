@@ -8,7 +8,7 @@ O primeiro passo para se automatizar utilizando o Capybara Framework é instalar
 
 ![03 - Instalando os Drivers](https://github.com/reinaldorossetti/udemy_capybara_course/blob/master/03-Instalando_os_Drivers_Windows.MD)<br>
 
-![05 - Instalando a gem pry para debugging](https://github.com/reinaldorossetti/udemy_capybara_course/blob/master/04-pry-byebug.MD)<br>
+![04 - Instalando a gem pry para debugging](https://github.com/reinaldorossetti/udemy_capybara_course/blob/master/04-pry-byebug.MD)<br>
 
 Depois de instalar as ferramentas, vamos falar sobre o básico de ruby para a Automação de Testes.<br>
 ![05 - Básico de Ruby](https://github.com/reinaldorossetti/udemy_capybara_course/blob/master/05-Basico_de_Ruby_para_automacao.MD)<br>
