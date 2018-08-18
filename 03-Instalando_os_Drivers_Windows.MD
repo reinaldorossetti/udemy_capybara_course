@@ -25,3 +25,7 @@ Como mostra a imagem os drivers devem estar dentro da pasta /bin dentro do RubyX
 4. Agora somente rodar os testes e sucesso!
   
 ![Drivers](https://github.com/reinaldorossetti/ProjetoSpreadTecnologia/blob/master/imgs/path.PNG)<br>
+
+5. Para validar se colocou certo na variável de ambiente do Windows, somente abrir o prompt/terminal e digitar chromedriver, vai mostrar informações do driver.
+
+![Drivers](https://github.com/reinaldorossetti/udemy_capybara_course/blob/master/imgs/terminal.png)<br>
