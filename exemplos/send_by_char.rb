@@ -10,6 +10,5 @@ page.visit("https://erp1.edebe.com.br:8085/?StartProg=SIGAMDI&Comm=TCP&Env=P12_P
 
 elem01 = page.find('#COMP3014 > input').set "reinaldo"
 elem02 = page.find(:xpath, "//*[@id='COMP3016']/input")
-" help".each_char{|letra|elem02.send_keys letra
-sleep 0.5}
-sleep 5
+" help".each_char{|l|elem02.send_keys l; sleep 0.5}
+sleep 5 # somente pra ver.
