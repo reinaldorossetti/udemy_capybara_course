@@ -19,3 +19,12 @@ Agora a instalação foi finalizada com sucesso, para fechar somente dar o cliqu
 
 ![Ruby Prompt](https://github.com/reinaldorossetti/ProjetoModeloWatir/blob/master/imgs/ruby05_cmd.PNG)<br>
 Para ter certeza que instalou e adicionou ao path do windows/linux, abrimos o prompt/shell e digitamos o comando **"ruby -v"**, o resultado do comando mostra a verão do ruby instalada.
+
+
+Agora vamos abrir o IRB (Interactive Ruby Shell), que é um terminal que podemos testar os comandos do ruby de forma interativa.
+
+![Ruby Prompt](https://github.com/reinaldorossetti/ProjetoModeloWatir/blob/master/imgs/ruby06_irb.PNG)<br>
+
+No terminal vamos manda o comando puts pra imprimir no terminal o texto digitado.
+
+![Ruby Prompt](https://github.com/reinaldorossetti/ProjetoModeloWatir/blob/master/imgs/ruby07_puts.PNG)<br>
