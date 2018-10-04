@@ -23,8 +23,8 @@ Para ter certeza que instalou e adicionou ao path do windows/linux, abrimos o pr
 
 Agora vamos abrir o IRB (Interactive Ruby Shell), que é um terminal que podemos testar os comandos do ruby de forma interativa.
 
-![Ruby Prompt](https://github.com/reinaldorossetti/ProjetoModeloWatir/blob/master/imgs/ruby06_irb.PNG)<br>
+![Ruby Prompt](https://github.com/reinaldorossetti/udemy_capybara_course/blob/master/imgs/ruby06_irb.PNG)<br>
 
 No terminal vamos manda o comando puts pra imprimir no terminal o texto digitado.
 
-![Ruby Prompt](https://github.com/reinaldorossetti/ProjetoModeloWatir/blob/master/imgs/ruby07_puts.PNG)<br>
+![Ruby Prompt](https://github.com/reinaldorossetti/udemy_capybara_course/blob/master/imgs/ruby07_puts.PNG)<br>
