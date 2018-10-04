@@ -30,3 +30,5 @@ No terminal vamos manda o comando puts pra imprimir no terminal o texto digitado
 ![Ruby Prompt](https://github.com/reinaldorossetti/udemy_capybara_course/blob/master/imgs/ruby07_puts.PNG)<br>
 
 Para Sair do terminar digitamos o comando "exit()" sem aspas duplas.
+
+** O comando IRB funciona em qualquer pasta dentro do terminar, ele simplesmente habilita o terminal no shell, ou seja ele é independendo do caminho do projeto.
