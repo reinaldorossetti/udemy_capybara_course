@@ -13,4 +13,4 @@ $session.within_frame 0 do
     'java'.each_char{|letra|elemx.send_keys letra}
     $session.find('li div', text: "JavaScript", visible: true).click
 end
-sleep 30
+sleep 30 # somente pra ver o preenchimento.
